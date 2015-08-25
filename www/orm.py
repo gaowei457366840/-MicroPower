@@ -1,4 +1,6 @@
-uthor__ = 'Michael Liao'
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+uthor__ = 'gaowei'
 
 import asyncio, logging
 
